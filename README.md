@@ -4,6 +4,7 @@
 
 I enjoy exploring how **data, technology and operational strategy** help modern digital companies grow. I'm particularly interested in analysing operational metrics, identifying inefficiencies and thinking about how companies can scale their systems and processes effectively.
 
+
 ---
 
 ##  Areas of Interest
@@ -20,7 +21,11 @@ I enjoy exploring how **data, technology and operational strategy** help modern 
 
 ---
 
-##  Current Project
+##  Current Projects
+
+### Website Design
+
+The website is currently being developed and tested within a localhost environment using VS Code, modern front-end tooling, and AI-assisted workflows, while design iterations, responsiveness, and interactive elements continue to be refined prior to deployment.
 
 ### Ops Analytics: Support & Onboarding Metrics (SQL + Python)
 
